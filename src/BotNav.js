@@ -13,6 +13,9 @@ class BotNav extends Component {
                   des Licornes, &copy;2018 Satelittes Anonymes
                 </a>
               </li>
+              <li>
+                <a data-netlify-identity-button />
+              </li>
             </ul>
           </div>
         </div>
